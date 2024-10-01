@@ -1,0 +1,25 @@
+{
+  "auth": "zef:tbrowder",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Provides easy access to URW Base 35 OpenType Fonts",
+  "license": "Artistic-2.0",
+  "name": "PDF::URW-Fonts",
+  "perl": "6.d",
+  "provides": {
+    "PDF::URW-Fonts": "lib/PDF/URW-Fonts.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
